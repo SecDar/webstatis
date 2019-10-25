@@ -20,6 +20,7 @@
 	height: 500px;
 	border: 2px solid red;
 	margin-top: 20px;
+
 }
 .isiart{
 	text-align: center;
@@ -87,6 +88,7 @@ p{
 	font-size: 36px;
 	padding-left: 20px;
 	border-bottom: 2px solid red;
+	border-bottom:;
 }
 p.related1{
 	font-size: 36px;
